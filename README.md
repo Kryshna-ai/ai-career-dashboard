@@ -1,3 +1,21 @@
 # AI Career Dashboard
 
-My journey to becoming a Production AI Engineer.
+## Goal
+
+Become a Production AI Engineer.
+
+## Current Phase
+
+Phase 0 - Git & GitHub
+
+## Roadmap
+
+- [ ] Python
+- [ ] SQL
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] LLM Engineering
+- [ ] MLOps
+- [ ] Cloud
